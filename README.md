@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/Eng-FelipeA/Curadentes/blob/main/WhatsApp%20Image%202026-04-29%20at%2018.26.25.jpeg?raw=true)
 # Curadentes
 Solução para auxiliar dentistas, pacientes e prestadores de serviço se conectarem.
 
